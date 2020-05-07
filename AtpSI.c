@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <locale.h>
 
 main(){
+	setlocale(LC_ALL, "Portuguese");
 	float numeros[10];
 	int opcaoMenu;
 	printf("Digite 10 números separados por espaço para iniciar: ");
