@@ -65,6 +65,7 @@ void igorJackson(){
 
 void marcos(){
 	printf("\n\t------------ Marcos Vinicius de Sousa Pontes ------------\n");
+	printf("\nDigite qualque tecla para continuar.\n");
 	fflush(stdin);
 	getchar();
 }
