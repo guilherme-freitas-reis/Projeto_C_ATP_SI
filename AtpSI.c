@@ -39,6 +39,7 @@ main(){
 
 void igorJackson(){
 	printf("\nIgor Jackson Leal Bovolenta");
+	printf("\nDigite qualquer tecla para continuar.");
 	fflush(stdin);
 	getchar();
 }
