@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 
+void pedro();
 void victorPaizante();
 void igorFloresPatrocinio();
 void victorJavierFerreiraSilva();
@@ -33,6 +34,9 @@ main(){
 			case 13:
 				marcos();
 				break;
+      case 14:
+				pedro();
+				break;
       case 16:
 				victorPaizante();
         break;
@@ -47,6 +51,12 @@ main(){
 				break;
 		}
 	}
+}
+
+void pedro(){
+	printf("Pedro Henrique Bernardes Ribeiro\n");
+	fflush(stdin);
+	getchar();
 }
 
 void victorPaizante(){
