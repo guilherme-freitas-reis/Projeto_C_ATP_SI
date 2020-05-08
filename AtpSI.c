@@ -3,6 +3,7 @@
 
 void igorJackson();
 void marcos();
+void vitorLacerda();
 
 main(){
 	setlocale(LC_ALL, "Portuguese");
@@ -26,6 +27,9 @@ main(){
 			case 13:
 				marcos();
 				break;
+			case 18:
+				vitorLacerda();
+				break;
 			default:
 				printf("\n\nOpção inválida");
 				break;
@@ -43,4 +47,10 @@ void marcos(){
 	printf("\n\t------------ Marcos Vinicius de Sousa Pontes ------------\n");
 	fflush(stdin);
 	getchar();
+}
+
+void vitorLacerda(){
+  printf("vitor Lacerda\n");
+  fflush(stdin);
+  getchar();
 }
