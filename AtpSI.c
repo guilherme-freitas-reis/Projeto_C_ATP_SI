@@ -16,18 +16,18 @@ main()
 	setlocale(LC_ALL, "Portuguese");
 	float numeros[10];
 	int opcaoMenu;
-	printf("Digite 10 n�meros separados por espa�o para iniciar: ");
+	printf("Digite 10 numeros separados por espaco para iniciar: ");
 	scanf("%f %f %f %f %f %f %f %f %f %f", &numeros[0], &numeros[1], &numeros[2], &numeros[3], &numeros[4], &numeros[5], &numeros[6], &numeros[7], &numeros[8], &numeros[9]);
 
 	while (1)
 	{
-		printf("\n\nDigite um n�mero de 1 a 18 para selecionar uma fun��o, ou digite 0 para alterar os n�meros: ");
+		printf("\n\nDigite um numero de 1 a 18 para selecionar uma funcao, ou digite 0 para alterar os numeros: ");
 		scanf("%d", &opcaoMenu);
 				
 		switch (opcaoMenu)
 		{
 			case 0:
-				printf("\n\nDigite 10 n�meros separados por espa�o: ");
+				printf("\n\nDigite 10 numeros separados por espaco: ");
 				scanf("%f %f %f %f %f %f %f %f %f %f", &numeros[0], &numeros[1], &numeros[2], &numeros[3], &numeros[4], &numeros[5], &numeros[6], &numeros[7], &numeros[8], &numeros[9]);
 				break;
 			case 6:
@@ -58,7 +58,7 @@ main()
 				vitorLacerda();
 				break;
 			default:
-				printf("\n\nOp��o inv�lida");
+				printf("\n\nOpcao invalida");
 				break;
 		}
 		
@@ -79,7 +79,7 @@ void gustavoMeirelesSousa()
 }
 void igorFloresPatrocinio()
 {
-	printf("\nIgor Flores Patroc�nio\n");
+	printf("\nIgor Flores Patrocinio\n");
 }
 
 void igorJackson()
@@ -100,9 +100,6 @@ void pedro()
 void victorPaizante()
 {
 	printf("\nVictor Paizante\n");
-	printf("\nDigite qualque tecla para continuar.\n");
-	fflush(stdin);
-	getchar();
 }
 
 void victorJavierFerreiraSilva()
