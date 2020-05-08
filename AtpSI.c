@@ -2,6 +2,7 @@
 #include <locale.h>
 
 void guilhermeFreitasReis();
+void gustavoMeirelesSousa();
 void igorFloresPatrocinio();
 void igorJackson();
 void marcos();
@@ -32,6 +33,9 @@ main()
 		case 6:
 			guilhermeFreitasReis();
 			break;
+		case 8:
+		     gustavoMeirelesSousa();
+			 break;	
 		case 10:
 			igorFloresPatrocinio();
 			break;
@@ -67,7 +71,14 @@ void guilhermeFreitasReis()
 	fflush(stdin);
 	getchar();
 }
+void gustavoMeirelesSousa()
+{
+	printf("\nGustavo Meireles Sousa\n");
+	printf("\nDigite qualquer tecla para continuar\n");
+	fflush(stdin);
+	getchar();
 
+}
 void igorFloresPatrocinio()
 {
 	printf("\nIgor Flores Patroc�nio\n");
