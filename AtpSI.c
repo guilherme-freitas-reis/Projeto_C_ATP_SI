@@ -2,28 +2,52 @@
 #include <locale.h>
 
 void pedro();
+void victorPaizante();
+void igorFloresPatrocinio();
+void victorJavierFerreiraSilva();
+void igorJackson();
+void marcos();
+void vitorLacerda();
 
 main(){
 	setlocale(LC_ALL, "Portuguese");
 	float numeros[10];
 	int opcaoMenu;
-	printf("Digite 10 números separados por espaço para iniciar: ");
+	printf("Digite 10 nÃºmeros separados por espaÃ§o para iniciar: ");
 	scanf("%f %f %f %f %f %f %f %f %f %f", &numeros[0], &numeros[1], &numeros[2], &numeros[3], &numeros[4], &numeros[5], &numeros[6], &numeros[7], &numeros[8], &numeros[9]);
 
 	while(1){
-		printf("\n\nDigite um número de 1 a 18 para selecionar uma função, ou digite 0 para alterar os números: ");
+		printf("\n\nDigite um nÃºmero de 1 a 18 para selecionar uma funÃ§Ã£o, ou digite 0 para alterar os nÃºmeros: ");
 		scanf("%d", &opcaoMenu);
 		
 		switch(opcaoMenu){
 			case 0:
-				printf("\n\nDigite 10 números separados por espaço: ");
+				printf("\n\nDigite 10 nÃºmeros separados por espaÃ§o: ");
 				scanf("%f %f %f %f %f %f %f %f %f %f", &numeros[0], &numeros[1], &numeros[2], &numeros[3], &numeros[4], &numeros[5], &numeros[6], &numeros[7], &numeros[8], &numeros[9]);
+				break;		
+			case 10:
+				igorFloresPatrocinio();
+        break;
+			case 11:
+				igorJackson();
 				break;
-			case 14:
+			case 13:
+				marcos();
+				break;
+      case 14:
 				pedro();
 				break;
+      case 16:
+				victorPaizante();
+        break;
+      case 17:
+				victorJavierFerreiraSilva();
+				break;
+			case 18:
+				vitorLacerda();
+				break;
 			default:
-				printf("\n\nOpção inválida");
+				printf("\n\nOpÃ§Ã£o invÃ¡lida");
 				break;
 		}
 	}
@@ -33,4 +57,36 @@ void pedro(){
 	printf("Pedro Henrique Bernardes Ribeiro\n");
 	fflush(stdin);
 	getchar();
+}
+
+void victorPaizante(){
+  printf("\nVictor Paizante");
+}
+
+void igorFloresPatrocinio(){
+	printf("Igor Flores Patrocï¿½nio");
+}
+
+void victorJavierFerreiraSilva(){
+	printf("Victor Javier Ferreira e Silva");
+}
+
+void igorJackson(){
+	printf("\nIgor Jackson Leal Bovolenta");
+	printf("\nDigite qualquer tecla para continuar.");
+	fflush(stdin);
+	getchar();
+}
+
+void marcos(){
+	printf("\n\t------------ Marcos Vinicius de Sousa Pontes ------------\n");
+	printf("\nDigite qualque tecla para continuar.\n");
+	fflush(stdin);
+	getchar();
+}
+
+void vitorLacerda(){
+  printf("vitor Lacerda\n");
+  fflush(stdin);
+  getchar();
 }
