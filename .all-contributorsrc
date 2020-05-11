@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "GuilhermeReis9876",
+      "name": "Guilherme de Freitas Reis",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/40269684?v=4",
+      "profile": "https://guilhermefreis.com.br",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
