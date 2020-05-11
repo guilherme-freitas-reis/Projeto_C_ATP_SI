@@ -1,11 +1,15 @@
+## Projeto ATP - Sistemas de Informação
+
+Projeto colaborativo da turma de Sistemas de Informação 1º período 2020.
+
+O projeto consiste em ter uma experiência de colaboração no desenvolvimento de um sistema desenvolvido em C. O sistema possui 18 funcionalidades, e cada uma delas foi criado por um aluno específico.  
+
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## Colaboradores ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -24,4 +28,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
