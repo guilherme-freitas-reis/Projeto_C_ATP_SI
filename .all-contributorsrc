@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "DaviCecilio",
+      "name": "Davi Cecílio",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/53492145?v=4",
+      "profile": "https://github.com/DaviCecilio",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
