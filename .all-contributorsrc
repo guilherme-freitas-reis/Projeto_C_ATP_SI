@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "pedrohbribeiro",
+      "name": "Pedro",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43688538?v=4",
+      "profile": "https://github.com/pedrohbribeiro",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Projeto_C_ATP_SI",
+  "projectOwner": "GuilhermeReis9876",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
