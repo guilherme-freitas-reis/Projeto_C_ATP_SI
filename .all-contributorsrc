@@ -32,9 +32,18 @@
       "name": "Davi Cecílio",
       "avatar_url": "https://avatars3.githubusercontent.com/u/53492145?v=4",
       "profile": "https://github.com/DaviCecilio",
-       "contributions": [
+      "contributions": [
         "infra",
         "test",
+        "code"
+      ]
+    },
+    {
+      "login": "MarcosPontes-8",
+      "name": "MarcosPontes-8",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/61521204?v=4",
+      "profile": "https://github.com/MarcosPontes-8",
+      "contributions": [
         "code"
       ]
     }
