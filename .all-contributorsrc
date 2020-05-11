@@ -17,11 +17,22 @@
       ]
     },
     {
+      "login": "GuilhermeReis9876",
+      "name": "Guilherme de Freitas Reis",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/40269684?v=4",
+      "profile": "https://guilhermefreis.com.br",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
       "login": "DaviCecilio",
       "name": "Davi Cecílio",
       "avatar_url": "https://avatars3.githubusercontent.com/u/53492145?v=4",
       "profile": "https://github.com/DaviCecilio",
-      "contributions": [
+       "contributions": [
         "infra",
         "test",
         "code"
