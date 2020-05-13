@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 
+void daviCecilio();
 void guilhermeFreitasReis();
 void gustavoMeirelesSousa();
 void igorFloresPatrocinio();
@@ -23,19 +24,22 @@ main()
 	{
 		printf("\n\nDigite um numero de 1 a 18 para selecionar uma funcao, ou digite 0 para alterar os numeros: ");
 		scanf("%d", &opcaoMenu);
-				
+
 		switch (opcaoMenu)
 		{
 			case 0:
 				printf("\n\nDigite 10 numeros separados por espaco: ");
 				scanf("%f %f %f %f %f %f %f %f %f %f", &numeros[0], &numeros[1], &numeros[2], &numeros[3], &numeros[4], &numeros[5], &numeros[6], &numeros[7], &numeros[8], &numeros[9]);
 				break;
+			case 5:
+				daviCecilio();
+				break;
 			case 6:
 				guilhermeFreitasReis();
 				break;
 			case 8:
 			    gustavoMeirelesSousa();
-				break;	
+				break;
 			case 10:
 				igorFloresPatrocinio();
 				break;
@@ -61,13 +65,20 @@ main()
 				printf("\n\nOpcao invalida");
 				break;
 		}
-		
+
 		printf("\nDigite qualque tecla para continuar.\n");
 		fflush(stdin);
 		getchar();
+
+
 	}
 }
 
+
+void daviCecilio()
+{
+	printf("\nDavi Martins Cecílio\n");
+}
 void guilhermeFreitasReis()
 {
 	printf("\nGuilherme de Freitas Reis\n");
