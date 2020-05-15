@@ -6,7 +6,7 @@ O projeto consiste em ter uma experiência de colaboração no desenvolvimento d
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Colaboradores ✨
@@ -22,6 +22,7 @@ O projeto consiste em ter uma experiência de colaboração no desenvolvimento d
     <td align="center"><a href="https://github.com/MarcosPontes-8"><img src="https://avatars1.githubusercontent.com/u/61521204?v=4" width="100px;" alt=""/><br /><sub><b>MarcosPontes-8</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=MarcosPontes-8" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/victorjavier28"><img src="https://avatars1.githubusercontent.com/u/64993080?v=4" width="100px;" alt=""/><br /><sub><b>victorjavier28</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=victorjavier28" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Buzzitolos"><img src="https://avatars0.githubusercontent.com/u/64992587?v=4" width="100px;" alt=""/><br /><sub><b>Buzzitolos</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=Buzzitolos" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DanielVictor20"><img src="https://avatars0.githubusercontent.com/u/64994085?v=4" width="100px;" alt=""/><br /><sub><b>DanielVictor20</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=DanielVictor20" title="Code">💻</a></td>
   </tr>
 </table>
 
