@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-
+void camilaDoNascimentoRoque();
 void danielVictor();
 void daviCecilio();
 void guilhermeFreitasReis();
@@ -31,6 +31,9 @@ main()
 			case 0:
 				printf("\n\nDigite 10 numeros separados por espaco: ");
 				scanf("%f %f %f %f %f %f %f %f %f %f", &numeros[0], &numeros[1], &numeros[2], &numeros[3], &numeros[4], &numeros[5], &numeros[6], &numeros[7], &numeros[8], &numeros[9]);
+				break;
+			case 2:
+				camilaDoNascimentoRoque();
 				break;
 			case 4:
 				danielVictor();
@@ -76,8 +79,13 @@ main()
 
 
 	}
+
 }
 
+void camilaDoNascimentoRoque()
+{
+	printf("\nCamila do Nascimento Roque\n");
+}
 void danielVictor()
 {
 	printf("\nDaniel Victor Pereira Coelho Martins\n");
