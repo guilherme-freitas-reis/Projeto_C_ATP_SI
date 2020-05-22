@@ -9,6 +9,7 @@ void igorFloresPatrocinio();
 void igorJackson();
 void marcos();
 void pedro();
+void Stephany();
 void victorPaizante();
 void victorJavierFerreiraSilva();
 void vitorLacerda();
@@ -58,7 +59,10 @@ main()
 				break;
 			case 14:
 				pedro();
-				break;
+				break;		
+			case 15:
+				Stephany();
+				break;	
 			case 16:
 				victorPaizante();
 				break;
@@ -121,6 +125,11 @@ void marcos()
 void pedro()
 {
 	printf("\nPedro Henrique Bernardes Ribeiro\n");
+}
+
+void Stephany()
+{
+	printf("\nStephany Carolina de Souza \n");
 }
 
 void victorPaizante()
