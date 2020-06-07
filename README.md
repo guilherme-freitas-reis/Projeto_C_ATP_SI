@@ -6,7 +6,7 @@ O projeto consiste em ter uma experiência de colaboração no desenvolvimento d
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Colaboradores ✨
@@ -27,6 +27,7 @@ O projeto consiste em ter uma experiência de colaboração no desenvolvimento d
   <tr>
     <td align="center"><a href="https://github.com/CamyRoque"><img src="https://avatars2.githubusercontent.com/u/59942072?v=4" width="100px;" alt=""/><br /><sub><b>CamyRoque</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=CamyRoque" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/stephany-c"><img src="https://avatars1.githubusercontent.com/u/64992976?v=4" width="100px;" alt=""/><br /><sub><b>stephany-c</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=stephany-c" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/herbertgoncalves"><img src="https://avatars3.githubusercontent.com/u/66536351?v=4" width="100px;" alt=""/><br /><sub><b>herbertgoncalves</b></sub></a><br /><a href="https://github.com/GuilhermeReis9876/Projeto_C_ATP_SI/commits?author=herbertgoncalves" title="Code">💻</a></td>
   </tr>
 </table>
 
