@@ -5,6 +5,7 @@ void danielVictor();
 void daviCecilio();
 void guilhermeFreitasReis();
 void gustavoMeirelesSousa();
+void HerbertGoncalves();
 void igorFloresPatrocinio();
 void igorJackson();
 void marcos();
@@ -48,6 +49,9 @@ main()
 			case 8:
 			    gustavoMeirelesSousa();
 				break;
+			case 9:
+			    herbertGoncalves();
+				break;	
 			case 10:
 				igorFloresPatrocinio();
 				break;
@@ -105,8 +109,11 @@ void guilhermeFreitasReis()
 void gustavoMeirelesSousa()
 {
 	printf("\nGustavo Meireles Sousa\n");
-
 }
+void herbertGoncalves()	
+{
+    printf("\nHerbert Goncalves\n");	
+}  
 void igorFloresPatrocinio()
 {
 	printf("\nIgor Flores Patrocinio\n");
